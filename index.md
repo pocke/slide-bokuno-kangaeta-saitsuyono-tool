@@ -54,7 +54,7 @@
 ## プログラマのポートフォリオを自動生成するよ
 
 
-- https://bearfruits.net/portfolios/167
+- https://bearfruits.net/@pocke
 
 
 ---
